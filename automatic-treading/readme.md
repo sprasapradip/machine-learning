@@ -7,3 +7,11 @@ he Nepal Stock Exchange (NEPSE) is the primary securities exchange in Nepal. It 
 - [Usage](#usage)
 - [Data](#data)
 - [Evaluation](#evaluation)
+- [Data Preprocessing](#data-preprocessing)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Feature Engineering](#feature-engineering)
+- [Model Training](#model-training)
+- [Results](#results)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
